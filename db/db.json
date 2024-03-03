@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Anjali dhakad",
+      "age": "24",
+      "email": "anjalidhakad027@gmail.com",
+      "city": "Ashoknagar",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Alia bhatt",
+      "email": "alia@1234",
+      "age": "30",
+      "city": "Mumbai"
+    },
+    {
+      "name": "subhi jain",
+      "age": "28",
+      "email": "subhi@134gmail.com",
+      "city": "Nashik",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Preeti agarwal",
+      "email": "preeti@1234",
+      "age": "35",
+      "city": "Pune"
+    },
+    {
+      "id": "5",
+      "name": "Rohi deo",
+      "email": "rohit@234gmail.com",
+      "age": "40",
+      "city": "Bhopal"
+    },
+    {
+      "id": "6",
+      "name": "sunita damle",
+      "email": "Sunita@1234",
+      "age": "35",
+      "city": "indore"
+    },
+    {
+      "id": "7",
+      "name": "somil sahu",
+      "age": "45",
+      "email": "somil@gmail.com",
+      "city": "gwalior"
+    }
+  ]
+}
